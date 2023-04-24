@@ -1,0 +1,41 @@
+.todo-note {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    margin: 10px;    
+    font-size: 18px;
+}
+.complete {
+    background-color: aquamarine;
+}
+.not-complete {
+    background-color: rgb(255, 127, 197);
+}
+
+.todo-text {
+    inline-size: 130px;
+    margin: 20px;
+    overflow-wrap: break-word;
+}
+
+.input-todo {
+    inline-size: 110px;
+    margin: 20px;
+}
+
+.button-X {
+    width: 24px;
+    height: 24px;
+    margin: 4px;
+}
+.mode-button {
+    width: 44px;
+    height: 24px;
+    margin: 20px;
+}
+
+.form-note {
+    margin: 10px;
+    font-size: 18px;
+}
