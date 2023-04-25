@@ -1,4 +1,4 @@
-# Assignment Set 3 - User Input and Complex State
+# Konsta's trainee academy portfolio.
 
 In this assignment, you create a single ***Todo notes*** application.
 
